@@ -1,3 +1,3 @@
 # Welcome to My Cybersecurity Journey!
 
-[The Beginning](first-post.md) 
+[The Beginning](_posts/first-post.md) 
