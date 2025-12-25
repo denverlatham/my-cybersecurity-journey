@@ -5,7 +5,7 @@ date: 2025-09-12
 
 # Boot Sequence: The Beginning
 
-This page is the story of how a kid with an Apple IIe grew into a mid-career professional pivoting into Information Technology. It is about where I started, what shaped me, and why I am committed to protecting systems and the people behind them. The rest of this page traces that journey-from those first POST beeps and crashes to the choices I am making now to build a career in IT. 
+This page is the story of how a kid with an Apple IIe grew into a mid-career professional pivoting into Information Technology. It is about where I started, what shaped me, and why I am committed to protecting systems and the people behind them. The rest of this page traces that journey - from those first POST beeps and crashes to the choices I am making now to build a career in IT. 
 
 ## Initial Login: Early Curiosity
 
