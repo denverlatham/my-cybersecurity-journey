@@ -5,7 +5,7 @@ date: 2025-09-12
 
 # Boot Sequence: The Beginning
 
-This page is the story of how a kid with an Apple IIe grew into a mid-career professional pivoting into Information Technology. It is about where I started, what shaped me, and why I am committed to protecting systems and the people behind them. 
+This page is the story of how a kid with an Apple IIe grew into a mid-career professional pivoting into Information Technology. It is about where I started, what shaped me, and why I am committed to protecting systems and the people behind them. The rest of this page traces that journey-from those first POST beeps and crashes to the choices I am making now to build a career in IT. 
 
 ## Initial Login: Early Curiosity
 
@@ -17,7 +17,7 @@ My initial 'login' began with a Sony VAIO desktop with Windows 95, and staying u
 
 For the next 17 years, technology remained a constant companion—but not as a career. From 2001 to 2017, I worked in education with students who were Deaf, eventually becoming a certified educational ASL interpreter. During that time, I became the unofficial IT person. Colleagues would come to me when their computers froze, applications weren't saving correctly, or they just needed someone who wouldn't make them wait for the official help desk. 
 
-While I didn't have formal training, I had an analytical mind and a stubborn refusal to give up on problems. People joked that I had the "magic touch" because, I'd walk over, start troubleshooting, and things would just work. The truth was simpler: I was willing to try many different approaches until something clicked.
+While I didn't have formal training, I had an analytical mind and a stubborn refusal to give up on problems. People joked that I had the "magic touch" because I'd walk over, start troubleshooting, and things would just work. The truth was simpler: I was willing to try many different approaches until something clicked.
 
 ## Routing Experience Packets: Skills I Brought With Me
 
