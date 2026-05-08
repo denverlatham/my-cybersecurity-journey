@@ -24,6 +24,7 @@ This page serves as a professional log, tracking my adventures and documenting c
 | IT Applications - D317 | Passed | CompTIA A+ Core 2 (220-1202) | Completed 1/10/2026 - Passed exam on the first attempt! | 
 | Network and Security - Foundations - D315 | Passed | Network Systems and Security Concepts | Completed in 10 Days!|
 | Networks - D325 | Passed | CompTIA Network+ (N10 - 009) | Certified 3/28/2026 - Passed on the first attempt! |
+| Business of IT - Applications - D336 | Passed | ITIL 4 Foundations | Certified 5/2/2026 - Passed on the first attempt!|
 
 
 
@@ -36,6 +37,7 @@ This page serves as a professional log, tracking my adventures and documenting c
 3. Completed coursework on prompt engineering principles (D685), focusing on designing effective prompts for various AI use cases. Key concepts: specificity, context-setting, role assignment, iteration, and understanding how different models respond to prompt structure. In practice, I regularly use multiple AI platforms (ChatGPT, Gemini, Perplexity, Claude, DeepSeek, Grok, etc.) and strategically switch between them depending on task requirements and model strengths, applying prompt optimization techniques to improve response quality and accuracy.
 4.Achieved CompTIA A+ certification (220-1201 & 1202) through WGU courses D316 & D317 using CompTIA CertMaster Learn and Practice as primary study resources and supplemental resources with Jason Dion and Professor Messer. This allowed me to embark on a structured journey through the courses with hands-on labs, which deepened my grasp of hardware diagnostics, Windows/macOS/Linux troubleshooting, basic Linux commands, file systems and package management, networking concepts (TCP/IP, DNS, DHCP, etc.), and best practices for malware removal. This milestone transformed theoretical public service problem-solving into certified IT support skills, prepping me for real-world deployments like my upcoming home lab.
 5. Will soon be developing a secure home lab environment to apply skills, featuring pfSense/OPNsense firewall, managed PoE switch(es), wireless access point (WAP), Network Attached Storage (NAS), and more. For now, I have downloaded several VMs for practicing, including Kali Linux, Ubuntu, and Windows 11 Pro for both macOS and Bootcamp Windows. This practical project will bridge certification theory with experimentation, simulating enterprise networks and providing the groundwork for future roles.
-6. Achieved Network+ certification (N10-009) through WGU course D325 passing on the first attempt in March 2026. Course consisted of several different labs utilizing at least three different VM environments. All labs were completed to 100% in the CertMaster Perform LMS. 
+6. End of March - 2026 Achieved Network+ certification (N10-009) through WGU course D325 passing on the first attempt in March 2026. Course consisted of several different labs utilizing at least three different VM environments. All labs were completed to 100% in the CertMaster Perform LMS.
+7. May 2026 - Took and passed the ITIL 4 Foundations certification exam on the first try. It was part of the Business of IT - Applications course D336 @ WGU. 
 
   <!-- Projects and Performance Assessments will be listed here upon completion. -->
